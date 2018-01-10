@@ -31,7 +31,7 @@ if(!$uinfo) die('No USER_INFO');
 					<script type="text/javascript" charset="utf-8">
 					var RESOURCE_SITE_URL = '/public/chat';
 					var CHAT_SITE_URL = '';
-					var connect_url = "http://127.0.0.1:8090";
+					var connect_url = "http://localhost:8090";
 
 					var layout = "layout/home_layout.php";
 					var act_op = "goods_index";

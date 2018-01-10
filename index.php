@@ -1,3 +1,4 @@
+<?php
 /*
  * Copyright (C) HaoJiang All rights reserved
  * FileName : 
@@ -9,8 +10,6 @@
  * Description : 网页版聊天IM
  *
  */
-
-<?php
 require 'include/inc.php';
 
 $controller = $_GET['c'];

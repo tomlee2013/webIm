@@ -98,7 +98,7 @@ if(!$uinfo) die('No USER_INFO');
 <script type="text/javascript">
 	var RESOURCE_SITE_URL = 'public/mchat';
     var CHAT_SITE_URL = '';
-	var connect_url = "http://127.0.0.1:8090";
+	var connect_url = "http://localhost:8090";
 	var user = {};
     user['u_id'] = "<?php echo $uinfo['id'];?>";
 	user['u_name'] = "<?php echo $uinfo['nick_name'];?>";
