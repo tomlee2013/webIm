@@ -1,0 +1,33 @@
+.content-block{margin:auto;padding:inherit;}
+.card{margin:0.1rem 0;}
+.blank{height: 2.2rem;}
+.card-content{padding:0.3rem;display:flow-root;}
+.yylb-img{float: left;height:2.5rem;width: 2.5rem;border-radius: 50%;}
+.aspan{width: 2.5rem;height: 1.5rem;line-height:1.5rem;margin-top:0.5rem;text-align:center;display: inline-block;background-color:#ec6a7d;color: #fff;border-radius: 0.3rem;float: right; float:left;}
+.btn-danger{background-color:#7079da;margin-left:3%;}
+.btn-confuse{background-color:#777;margin-left:3%;}
+.btn-normal{background-color:#0894ec; margin-left: 3%; }
+.card-content div{width: 55%;float: left;height:2.5rem;}
+.card-content div span{display: block;margin: 0 0.7rem;font-size: 0.7rem;line-height: 1.25rem}
+.card-content div .msgNum{ text-align: center; color: #fff; background: red; width: 1rem; height: 1rem; border-radius: 1rem; font-style: normal; display:none;position:absolute;position: absolute; top: 5px; left: 50px;}    
+.card-content div span.span-top{border-bottom: 1px solid #f0f0f0;}
+
+.chat-card{position: fixed;width: 100%;margin:auto; z-index:999;}
+.chat-card-header{text-align: center;display: block;}
+.chat-card-header a{float: right;color: #000;}
+#send_message{height:1.4rem;line-height:1.4rem;border-radius:0.25rem;width:100%;color:#3d4145;font-size:0.7rem;font-weight:normal;padding:0 0.5rem;background-color:#fff;border: 1px solid #b4b4b4;resize:none;}
+.card-last{bottom:0px;    position: fixed; width: 100%;}
+.content-padded{margin:0 0.5rem;}
+.blank{height: 2.3rem;}
+.item-subtitle{display: inline-block;padding-left: 0.2rem;vertical-align: top;width:75%;}
+.item-media{padding:0.5rem; position:relative;}
+.item-media i{position:absolute; color: #888; font-size:10px; font-style:normal;top:35px;}
+
+.item-media img{border-radius:50%;}
+/*聊天换*/
+.item-media-right{display: flow-root;}
+.item-media-right img{float: right;}
+.item-media-right .msg-time{right:55px;}
+.item-media-right div.item-subtitle{float: right;text-align: right;padding-right: 0.5rem;padding-left: 0rem;}
+
+.smilies-module { background-color: #FFF; border: 1px solid #D5E5F5; display: none; height: 100px; width: 240px; padding: 6px; position: absolute; z-index: 999; top: -100px; right: 10px; }
